@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  redindex:{
+    title_color: "dc2626",
+    text_color: "ffffff",
+    icon_color: "dc2626",
+    border_color: "a3a3a3",
+    bg_color: "000000",
+  },
 };
 
 export default themes;
