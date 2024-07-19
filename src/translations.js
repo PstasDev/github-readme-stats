@@ -365,7 +365,7 @@ const statCardLocales = ({ name, apostrophe }) => {
       bn: "PR একত্রীকরণের শতাংশ",
       es: "Porcentaje de PR fusionados",
       fr: "Pourcentage de PR fusionnés",
-      hu: "Egyesített PR-k százaléka",
+      hu: "Egyesített PR-ek százaléka",
       it: "Percentuale di PR uniti",
       ja: "マージされた PR の割合",
       kr: "병합된 PR의 비율",
