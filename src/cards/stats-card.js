@@ -82,7 +82,7 @@ const createTextNode = ({
  * @returns {number} Progress value.
  */
 const calculateCircleProgress = (value) => {
-  const radius = 40;
+  const radius = 70;
   const c = Math.PI * (radius * 2);
 
   if (value < 0) {
